@@ -3,6 +3,7 @@ import java.io.PrintStream;
 
 /**
  * Created by Administrator on 13-7-24.
+ * System类的setOut()和setIn()及setErr()方法
  */
 public class RedirectOutStream {
     public static void main(String[] args) {
