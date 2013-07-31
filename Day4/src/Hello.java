@@ -99,7 +99,6 @@ public class Hello {
         System.out.println("final 引用不能变，其值能变，stringBuffer为"+stringBuffer+"\r\n"+"append(\"sean\")后");
         stringBuffer.append("sean");
         System.out.println(stringBuffer+"当你试图改变这个引用时");
-        stringBuffer = new StringBuffer("wen");
 
     }
 }
