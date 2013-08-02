@@ -27,16 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14619801-b1af-4f9e-bce0-d8d91da29b2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day10/Day10.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day10_java/Day10_java.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day10_java/src/YangHuiTriangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day10/res/values/color.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day10/res/values/dimen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w_11/w_11.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/w_11_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webDemo10/webDemo10.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/webDemo10_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webDemo9/webDemo9.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day11/res/drawable-hdpi/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day11/Day11.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day11a/Day11a.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day11/res/menu/custome_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -66,7 +61,6 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -103,6 +97,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -112,61 +107,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day10/res/layout/main.xml">
+      <file leaf-file-name="custome_menu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day11/res/menu/custome_menu.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="9" selection-start="473" selection-end="473" vertical-scroll-proportion="-4.0363636" vertical-offset="75" max-vertical-offset="702">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dimen.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day10/res/values/dimen.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="243">
+            <state line="5" column="35" selection-start="186" selection-end="212" vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="486">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day10/res/values/strings.xml">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day11/src/demo/ay11/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="11" selection-start="160" selection-end="160" vertical-scroll-proportion="-4.32" vertical-offset="0" max-vertical-offset="297">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day10/src/com/example/Day10/MyActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="891">
-              <folding>
-                <element signature="e#783#986#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="YangHuiTriangle.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day10_java/src/YangHuiTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="33" selection-start="582" selection-end="582" vertical-scroll-proportion="0.5542522" vertical-offset="0" max-vertical-offset="702">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="color.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day10/res/values/color.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="243">
+            <state line="12" column="35" selection-start="332" selection-end="332" vertical-scroll-proportion="0.65562916" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -205,6 +158,7 @@
         <option value="$PROJECT_DIR$/Day10/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/Day10/src/com/example/Day10/MyActivity.java" />
         <option value="$PROJECT_DIR$/Day10_java/src/YangHuiTriangle.java" />
+        <option value="$PROJECT_DIR$/Day11/res/menu/custome_menu.xml" />
       </list>
     </option>
   </component>
@@ -265,7 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day10_java" />
+              <option name="myItemId" value="Day11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,18 +229,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day10_java" />
+              <option name="myItemId" value="Day11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ay11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,8 +256,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
-    <property name="last_opened_file_path" value="D:/summer/webDemo12" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -312,24 +270,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.YangHuiTriangle">
-    <configuration default="false" name="SimpleEncrypt" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SimpleEncrypt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Day4" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Download\300Demos\Day11\res\drawable-hdpi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.Day11">
     <configuration default="false" name="Swap" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Swap" />
@@ -399,6 +345,26 @@
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day11a" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true">
+      <module name="Day11a" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -582,23 +548,61 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="8">
+    <configuration default="false" name="Day11" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Day11" />
+      <option name="ACTIVITY_CLASS" value="demo.ay11.MyActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day11a" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="Day11a" />
+      <option name="ACTIVITY_CLASS" value="demo.day11a.MyActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Android Application.Day9" />
       <item index="1" class="java.lang.String" itemvalue="Android Tests.Day9" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SimpleEncrypt" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.Day10" />
       <item index="3" class="java.lang.String" itemvalue="Application.Swap" />
       <item index="4" class="java.lang.String" itemvalue="Application.TernaryOperator" />
-      <item index="5" class="java.lang.String" itemvalue="Android Application.Day10" />
-      <item index="6" class="java.lang.String" itemvalue="Android Tests.Day10" />
-      <item index="7" class="java.lang.String" itemvalue="Application.YangHuiTriangle" />
+      <item index="5" class="java.lang.String" itemvalue="Android Tests.Day10" />
+      <item index="6" class="java.lang.String" itemvalue="Application.YangHuiTriangle" />
+      <item index="7" class="java.lang.String" itemvalue="Android Application.Day11" />
+      <item index="8" class="java.lang.String" itemvalue="Android Application.Day11a" />
+      <item index="9" class="java.lang.String" itemvalue="Android Tests.Day11a" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.YangHuiTriangle" />
-        <item index="1" class="java.lang.String" itemvalue="Android Tests.Day10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TernaryOperator" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Swap" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SimpleEncrypt" />
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.Day11a" />
+        <item index="1" class="java.lang.String" itemvalue="Application.YangHuiTriangle" />
+        <item index="2" class="java.lang.String" itemvalue="Android Tests.Day10" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TernaryOperator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Swap" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -638,7 +642,11 @@
       <created>1375269369981</created>
       <updated>1375269369981</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="改变输出流，windows下盘符应该这么写&quot;D:\\Download\\300Demos\\Day4\\src\\log.txt&quot;">
+      <created>1375350470568</created>
+      <updated>1375350470568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -648,7 +656,6 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.67321175" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32678822" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -657,24 +664,25 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32678822" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32447553" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3253857" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32447553" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32678822" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67321175" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22118156" sideWeight="0.67321175" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22086331" sideWeight="0.6755245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.53458214" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.67321175" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -777,103 +785,58 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day9/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day9/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="105" selection-end="105" vertical-scroll-proportion="0.19103773" vertical-offset="0" max-vertical-offset="424">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day9/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="46" selection-start="422" selection-end="422" vertical-scroll-proportion="0.32233503" vertical-offset="116" max-vertical-offset="513">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="jar://D:/sdk/platforms/android-17/android.jar!/android/os/AsyncTask.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.6284404" vertical-offset="1103" max-vertical-offset="1539">
-          <folding />
-        </state>
+        <state line="51" column="0" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.6284404" vertical-offset="1103" max-vertical-offset="1539" />
       </provider>
     </entry>
     <entry file="jar://D:/sdk/platforms/android-17/android.jar!/java/util/concurrent/FutureTask.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.6284404" vertical-offset="536" max-vertical-offset="972">
-          <folding />
-        </state>
+        <state line="30" column="0" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.6284404" vertical-offset="536" max-vertical-offset="972" />
       </provider>
     </entry>
     <entry file="jar://D:/sdk/platforms/android-17/android.jar!/java/util/concurrent/ThreadPoolExecutor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="0" selection-start="5096" selection-end="5096" vertical-scroll-proportion="0.6284404" vertical-offset="2588" max-vertical-offset="3024">
-          <folding />
-        </state>
+        <state line="106" column="0" selection-start="5096" selection-end="5096" vertical-scroll-proportion="0.6284404" vertical-offset="2588" max-vertical-offset="3024" />
       </provider>
     </entry>
     <entry file="jar://D:/sdk/platforms/android-17/android.jar!/java/lang/Thread.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="148" column="0" selection-start="5222" selection-end="5222" vertical-scroll-proportion="0.6284404" vertical-offset="3722" max-vertical-offset="4158">
-          <folding />
-        </state>
+        <state line="148" column="0" selection-start="5222" selection-end="5222" vertical-scroll-proportion="0.6284404" vertical-offset="3722" max-vertical-offset="4158" />
       </provider>
     </entry>
     <entry file="jar://D:/sdk/platforms/android-17/android.jar!/android/content/ContextWrapper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="182" column="0" selection-start="10682" selection-end="10682" vertical-scroll-proportion="0.6284404" vertical-offset="4640" max-vertical-offset="5076">
-          <folding />
-        </state>
+        <state line="182" column="0" selection-start="10682" selection-end="10682" vertical-scroll-proportion="0.6284404" vertical-offset="4640" max-vertical-offset="5076" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day9/src/demo/day9/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="34" selection-start="677" selection-end="677" vertical-scroll-proportion="0.9045226" vertical-offset="477" max-vertical-offset="1134">
-          <folding />
-        </state>
+        <state line="33" column="34" selection-start="677" selection-end="677" vertical-scroll-proportion="0.9045226" vertical-offset="477" max-vertical-offset="1134" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webDemo10/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day10/res/values/color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="243">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day10/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="11" selection-start="160" selection-end="160" vertical-scroll-proportion="-4.32" vertical-offset="0" max-vertical-offset="297">
+        <state line="4" column="11" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="81" max-vertical-offset="297">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day10/res/values/dimen.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="243">
+        <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="243">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day10/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="473" selection-end="473" vertical-scroll-proportion="-4.0363636" vertical-offset="75" max-vertical-offset="702">
+        <state line="11" column="9" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="702">
           <folding />
         </state>
       </provider>
@@ -881,19 +844,46 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day10/src/com/example/Day10/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/Day10/res/values/color.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="891">
-          <folding>
-            <element signature="e#783#986#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-          </folding>
+        <state line="2" column="28" selection-start="79" selection-end="79" vertical-scroll-proportion="0.12616822" vertical-offset="0" max-vertical-offset="428">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day10_java/src/YangHuiTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="582" selection-end="582" vertical-scroll-proportion="0.5542522" vertical-offset="0" max-vertical-offset="702">
+        <state line="8" column="0" selection-start="291" selection-end="291" vertical-scroll-proportion="-108.0" vertical-offset="0" max-vertical-offset="702">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day10/src/com/example/Day10/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="45" selection-start="833" selection-end="833" vertical-scroll-proportion="1.1197339" vertical-offset="35" max-vertical-offset="891">
+          <folding>
+            <element signature="e#975#976#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day11a/src/demo/day11a/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="346" selection-end="346" vertical-scroll-proportion="0.6423841" vertical-offset="87" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day11/res/menu/custome_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="35" selection-start="186" selection-end="212" vertical-scroll-proportion="-5.4" vertical-offset="0" max-vertical-offset="486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day11/src/demo/ay11/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="35" selection-start="332" selection-end="332" vertical-scroll-proportion="0.65562916" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
@@ -940,7 +930,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android 4.2.2 Platform</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -952,12 +942,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>w_11</last-edited>
+          <last-edited>Android|Day10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
